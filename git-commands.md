@@ -88,9 +88,9 @@
 
 ## Merge
 
-- Para inserir da branch dev para branch master:
-$ git checkout master
-$ git merge branch master
+- Para fazer o merge da sua branch atual para main:
+- $ git checkout main
+- $ git merge branch-dev
 
 ## Desfazendo coisas
 
