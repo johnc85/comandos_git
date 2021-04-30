@@ -61,6 +61,11 @@
 
 ```$ git remote add origin https://github.com/davidalves1/gerador-cnpj.git```
 
+
+- Trocar repositório remoto
+
+```$ git remote set-url <url>
+
 - Visualizar branchs locais e remotos:  
  
 ```git branch [--list] [-a]```
