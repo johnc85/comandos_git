@@ -90,7 +90,7 @@
 
 - Para fazer o merge da sua branch atual para main:
 - $ git checkout main
-- $ git merge branch-dev
+- $ git merge dev
 
 ## Desfazendo coisas
 
