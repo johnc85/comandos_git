@@ -86,6 +86,12 @@
 
 ```$ git push origin nome-do-branch```
 
+## Merge
+
+- Para inserir da branch dev para branch master:
+$ git checkout master
+$ git merge branch master
+
 ## Desfazendo coisas
 
 - Remover arquivo do monitoramento do Git:  
